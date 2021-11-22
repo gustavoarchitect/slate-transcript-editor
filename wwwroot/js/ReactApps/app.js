@@ -1,0 +1,1 @@
+alert('slate transcript editor hosted in vanilla react app published ')
