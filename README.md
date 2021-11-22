@@ -3,7 +3,9 @@
 <!-- _One liner + link to confluence page_
 _Screenshot of UI - optional_ -->
 _Customization_
-Create additional build process utilizing webpack with a default react app that can be served locally in an IIS webserver
+
+- Create additional build process utilizing webpack with a default react app that can be served to a cloud hosted asp.net application
+
 
 _Work in progress_
 
